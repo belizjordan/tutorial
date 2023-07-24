@@ -1,4 +1,3 @@
-# hello!
 
 #kid age/stim race
 ggplot(cp_456s, aes(x = factor(age), y = rating)) + 
